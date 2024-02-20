@@ -4,7 +4,7 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
@@ -18,5 +18,5 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 ## 🏷️ Layout
 
 Você pode visualizar o layout do projeto através
-[desse link](https://www.figma.com/file/1oP3c6JEY8zfqwEI2yX4XR/C%C3%A1psula-do-tempo-%E2%80%A2-Spacetime-Trilha-Explorer?type=design&node-id=306%3A3&t=Z0JjuVtmeRVlvjJ8-1).
+[desse link](https://www.figma.com/file/y9rYSSUuUv1cySjG1Om9ZL/DevLinks-%E2%80%A2-Projeto?type=design&node-id=10%3A620&mode=design&t=gr1WJYmhmK6QUW0i-1).
 É necessário ter uma conta no [figma](https://www.figma.com)
